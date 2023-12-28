@@ -185,9 +185,9 @@ BIBench是由创建和转换的数据集混合而成。我们要求您遵循数�
 
 以下为相关贡献者，排名不分先后
 
-成员：[刘曙](https://github.com/yysirs)、[赵尚卿]()、[贾承昊]()、[庄薪霖]()、[龙肇广]()、[王至宏]()
+成员：[刘曙](https://github.com/yysirs)、[赵尚卿](https://github.com/Qing25)、[贾承昊]()、[庄薪霖]()、[龙肇广]()、[王至宏](https://github.com/RexWzh)
 
-商务：[刘曙](1554987494@qq.com)
+商务：刘曙(1554987494@qq.com)
 
 
 ## 🖊️ Citation
