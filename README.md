@@ -62,7 +62,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-lboi" rowspan="7"><b>BI知识理解</b></td>
     <td class="tg-0pky">2-1</td>
     <td class="tg-0pky">舆情主体识别和类型判断</td>
-    <td class="tg-0pky">Subject Identification and Label Classification</td>
+    <td class="tg-0pky">Sentiment Analysis</td>
     <td class="tg-0pky"><a href="https://tianchi.aliyun.com/dataset/111209">event_entity_ps</a></td>
     <td class="tg-0pky">600</td>
     <td class="tg-0pky">F1</td>
@@ -71,7 +71,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
   <tr>
     <td class="tg-0pky">2-2</td>
     <td class="tg-0pky">事件抽取与事件类型检测</td>
-    <td class="tg-0pky">Event Extraction and Label Detection</td>
+    <td class="tg-0pky">Event Extraction</td>
     <td class="tg-0pky"><a href="https://www.biendata.xyz/competition/ccks_2020_3/">ccks_fewshot_ER</a></td>
     <td class="tg-0pky">250</td>
     <td class="tg-0pky">F1</td>
@@ -80,7 +80,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
   <tr>
     <td class="tg-0pky">2-3</td>
     <td class="tg-0pky">风险和机会标签识别</td>
-    <td class="tg-0pky">Risk and Opportunity Label Identification</td>
+    <td class="tg-0pky">Early Warning Analysis</td>
     <td class="tg-0pky"><a href="">op_risk_extract</a></td>
     <td class="tg-0pky">300</td>
     <td class="tg-0pky">F1</td>
@@ -89,7 +89,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
   <tr>
     <td class="tg-0pky">2-4</td>
     <td class="tg-0pky">多形态抽取</td>
-    <td class="tg-0pky">Multimodal Information Extraction</td>
+    <td class="tg-0pky">Multimodal Infor Extraction</td>
     <td class="tg-0pky"><a href="https://aistudio.baidu.com/competition/detail/65/0/introduction">due_fin_ER</a></td>
     <td class="tg-0pky">250</td>
     <td class="tg-0pky">F1</td>
