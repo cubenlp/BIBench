@@ -145,7 +145,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
 </table>
 
 ### 数据格式
-数据存储在 [data](https://github.com/open-compass/LawBench/tree/main/BiBench)  文件夹下。每个任务都存储在 <task_id>.json 文件中。
+数据存储在 [data](https://github.com/cubenlp/BIBench/tree/main/BiBench)  文件夹下。每个任务都存储在 <task_id>.json 文件中。
 可以通过 json.load 将 json 文件作为字典列表加载。
 数据格式如下（以任务 2-8 为例）：
 ```json
