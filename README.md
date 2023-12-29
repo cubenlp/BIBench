@@ -96,7 +96,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
      <td class="tg-0pky">抽取</td>
   </tr>
   <tr>
-    <td class="tg-0pky">2-6</td>
+    <td class="tg-0pky">2-5</td>
     <td class="tg-0pky">数据分析与挖掘</td>
     <td class="tg-0pky">Data2Insight</td>
     <td class="tg-0pky"><a href="">data2insight</a></td>
@@ -105,7 +105,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
      <td class="tg-0pky">生成</td>
   </tr>
   <tr>
-    <td class="tg-0pky">2-7</td>
+    <td class="tg-0pky">2-6</td>
     <td class="tg-0pky">文档Markdown结构化</td>
     <td class="tg-0pky">Doc2Markdown</td>
     <td class="tg-0pky"><a href="">doc2markdown</a></td>
@@ -114,7 +114,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
      <td class="tg-0pky">生成</td>
   </tr>
   <tr>
-    <td class="tg-0pky">2-8</td>
+    <td class="tg-0pky">2-7</td>
     <td class="tg-qdov">多角度SQL生成</td>
     <td class="tg-qdov">NL2ViSQL</td>
       <td class="tg-0pky"><a href="">数据改造</a></td>
