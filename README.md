@@ -46,8 +46,8 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-qdov">Financial Multiple Choice</td>
     <td class="tg-qdov"><a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus/tree/main">fin_exam</a></td>
     <td class="tg-qdov">500</td>
-    <td class="tg-qdov">ROUGE-L</td>
-    <td class="tg-qdov">生成</td>
+    <td class="tg-qdov">F1</td>
+    <td class="tg-qdov">分类</td>
   </tr>
   <tr>
     <td class="tg-0pky">1-2</td>
@@ -66,7 +66,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky"><a href="https://tianchi.aliyun.com/dataset/111209">event_entity_ps</a></td>
     <td class="tg-0pky">600</td>
     <td class="tg-0pky">F1</td>
-     <td class="tg-0pky">生成</td>
+     <td class="tg-0pky">抽取</td>
   </tr>
   <tr>
     <td class="tg-0pky">2-2</td>
@@ -75,7 +75,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky"><a href="https://www.biendata.xyz/competition/ccks_2020_3/">ccks_fewshot_ER</a></td>
     <td class="tg-0pky">250</td>
     <td class="tg-0pky">F1</td>
-     <td class="tg-0pky">生成</td>
+     <td class="tg-0pky">抽取</td>
   </tr>
   <tr>
     <td class="tg-0pky">2-3</td>
@@ -84,7 +84,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky"><a href="">op_risk_extract</a></td>
     <td class="tg-0pky">300</td>
     <td class="tg-0pky">F1</td>
-     <td class="tg-0pky">生成</td>
+     <td class="tg-0pky">抽取</td>
   </tr>
   <tr>
     <td class="tg-0pky">2-4</td>
@@ -93,7 +93,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky"><a href="https://aistudio.baidu.com/competition/detail/65/0/introduction">due_fin_ER</a></td>
     <td class="tg-0pky">250</td>
     <td class="tg-0pky">F1</td>
-     <td class="tg-0pky">生成</td>
+     <td class="tg-0pky">抽取</td>
   </tr>
   <tr>
     <td class="tg-0pky">2-6</td>
