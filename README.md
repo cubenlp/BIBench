@@ -108,7 +108,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky">2-6</td>
     <td class="tg-0pky">文档Markdown结构化</td>
     <td class="tg-0pky">Doc2Markdown</td>
-    <td class="tg-0pky"><a href="">doc2markdown</a></td>
+    <td class="tg-0pky"><a href="https://www.modelscope.cn/datasets/modelscope/chatglm_llm_fintech_raw_dataset/summary">doc2markdown</a></td>
     <td class="tg-0pky">300</td>
     <td class="tg-0pky">ROUGE-L</td>
      <td class="tg-0pky">生成</td>
@@ -136,7 +136,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-0pky">3-2</td>
     <td class="tg-0pky">探索性数据分析</td>
     <td class="tg-0pky">Exploratory Data Analysis</td>
-    <td class="tg-0pky"><a href="https://github.com/LiuHC0428/LAW-GPT">expolre_datanlysis</a></td>
+    <td class="tg-0pky"><a href="https://www.kaggle.com/datasets?search=data+analysis">expolre_datanlysis</a></td>
     <td class="tg-0pky">100</td>
     <td class="tg-0pky">ROUGE-L</td>
      <td class="tg-0pky">生成</td>
