@@ -89,7 +89,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
   <tr>
     <td class="tg-0pky">2-4</td>
     <td class="tg-0pky">多形态抽取</td>
-    <td class="tg-0pky">Multimodal Infor Extraction</td>
+    <td class="tg-0pky">Multiformat Infor Extraction</td>
     <td class="tg-0pky"><a href="https://aistudio.baidu.com/competition/detail/65/0/introduction">due_fin_ER</a></td>
     <td class="tg-0pky">250</td>
     <td class="tg-0pky">F1</td>
@@ -169,7 +169,7 @@ BIBench是由创建和转换的数据集混合而成。我们要求您遵循数�
 
 ## 🔜 未来计划
 ### 🤖LLM方面：
-- 提升逻辑推理能力，训练14B以上的中文数据分析模型底座：在BIChat的迭代过程中，我们发现和医疗、教育、法律等垂直领域不同的是，数据分析场景通常涉及细粒度数据洞察，这要求模型自身有很强的数据敏感度和逻辑能力，预计只有模型参数量达到14B以上才可以。
+- 提升逻辑推理能力，训练14B以上的中文数据分析模型底座：在BIChat的迭代过程中，我们发现和医疗、教育、法律等垂直领域不同的是，数据分析场景通常涉及细粒度数据洞察，这要求模型自身有很强的数据敏感度和逻辑能力，预计只有模型参数量达到14B以上才可以。最近大火的MOE框架也可以考虑。
 - 安全可信，减少幻觉：数据分析是一个推理严谨的场景，我们接下来会再优化模型思维链能力、以及对多模态信息处理。
 - 私有数据模型：我们一方面会继续扩大模型的基础数据分析能力，另一方面会探索B/G端的定制化私有需求，欢迎探讨合作。
 ### 🔍指标方面：
@@ -188,18 +188,6 @@ BIBench是由创建和转换的数据集混合而成。我们要求您遵循数�
 成员：[刘曙](https://github.com/yysirs)、[赵尚卿](https://github.com/Qing25)、[贾承昊]()、[庄薪霖]()、[龙肇广]()、[王至宏](https://github.com/RexWzh)
 
 商务：刘曙(1554987494@qq.com)
-
-
-## 🖊️ Citation
-
-```bibtex
-@article{fei2023lawbench,
-  title={BIBench: Benchmarking Data Analysis Knowledge of Large Language Models},
-  author={Fei, Zhiwei and Shen, Xiaoyu and Zhu, Dawei and Zhou, Fengzhe and Han, Zhuo and Zhang, Songyang and Chen, Kai and Shen, Zongwen and Ge, Jidong},
-  journal={arXiv preprint arXiv:2309.16289},
-  year={2023}
-}
-```
 
 
 
