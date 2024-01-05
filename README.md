@@ -119,7 +119,7 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
     <td class="tg-qdov">NL2ViSQL</td>
       <td class="tg-0pky"><a href="">数据改造</a></td>
       <td class="tg-0pky">400</td>
-    <td class="tg-0pky">Accuracy</td>
+    <td class="tg-0pky">ROUGE-L</td>
      <td class="tg-0pky">生成</td>
   </tr>
   <tr>
