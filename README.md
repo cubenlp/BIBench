@@ -5,7 +5,7 @@
 <h1 align="center">Benchmarking Data Analysis Knowledge of Large Language Models</h1> </center>
 
 <p align="center">
-    📖 <a href="" target="_blank">Data</a> •   📃 <a href="" target="_blank">Paper</a> 
+    📖 <a href="" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/abs/2401.02982" target="_blank">Paper</a> 
 </p>
 
 
