@@ -189,6 +189,17 @@ BIBench是由创建和转换的数据集混合而成。我们要求您遵循数�
 
 商务：刘曙(1554987494@qq.com)
 
+# 🖊️ Citation
 
+```bibtex
+@misc{liu2024bibench,
+      title={BIBench: Benchmarking Data Analysis Knowledge of Large Language Models}, 
+      author={Shu Liu and Shangqing Zhao and Chenghao Jia and Xinlin Zhuang and Zhaoguang Long and Man Lan},
+      year={2024},
+      eprint={2401.02982},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 **如果您希望进一步完善这个BI数据集或评估自己的模型，请随时联系我们。**
