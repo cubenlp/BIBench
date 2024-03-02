@@ -159,7 +159,22 @@ BIBench经过精心设计，可对大语言模型的数据分析能力进行精�
 ```
 
 ## ✅ 模型评测
-TODO
+我们测试了41种热门的大语言模型。我们对它们进行了分组，如下表所示：
+<div align = center>
+    <img width = '500' height = '400' src = './images/model_list.png'>
+</div>
+
+
+## 📊 模型性能
+我们仅测试模型zero-shot的性能： 
+
+### Zero-shot 性能
+
+这41个模型在Zero-Shot上的平均分数排序如下：
+<div align = center>
+    <img src = './images/zero-shot-model-score.png'>
+</div>
+
 
 
 ## 📌 许可
