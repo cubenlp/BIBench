@@ -218,3 +218,6 @@ BIBench是由创建和转换的数据集混合而成。我们要求您遵循数�
 ```
 
 **如果您希望进一步完善这个BI数据集或评估自己的模型，请随时联系我们。**
+
+# 致谢
+本项目思路启发受益于[LawBench](https://github.com/open-compass/LawBench)、模型框架受益于[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ，感谢以上作者的付出。
