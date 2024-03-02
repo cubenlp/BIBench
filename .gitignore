@@ -1,5 +1,6 @@
 ./output.csv
 ./output_avg.csv
+./data_process.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
